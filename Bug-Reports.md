@@ -40,5 +40,7 @@ If the player selects the healing action by mistake, they are forced to proceed 
 - Can lead to unintended combat outcomes
 
 ### Evidence
-- Video and visual evidence available in the `Evidence` folder
+- 🎥 Video (Full reproduction): [RiseOfTheHumbleKnight-BUG-01-HealingActionNoRollback
+](https://www.youtube.com/watch?v=rXXpzo8rsg8)
+- 🖼️ Visual preview (GIF): available in the `Evidence` folder
 
