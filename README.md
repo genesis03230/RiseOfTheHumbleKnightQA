@@ -32,7 +32,7 @@ The QA activities for this project focus on:
 The following preview demonstrates a gameplay issue identified during manual testing.  
 In this scenario, selecting a healing action during turn-based combat cannot be reverted, preventing the player from choosing a different action and negatively impacting combat flow.
 
-![Combat action cannot be reverted](Evidence/bug_combat_action_no_rollback.gif)
+![RiseOfTheHumbleKnight-BUG-01-HealingActionNoRollback](https://github.com/user-attachments/assets/7ffaa659-8295-437b-a810-640edf45c93b)
 
 > Full reproduction steps, severity, and complete video evidence are documented in `Bug-Reports.md`.
 
